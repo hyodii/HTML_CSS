@@ -1,0 +1,21 @@
+.main
+{
+  display: flex;
+  justify-content: space-between;
+}
+.box
+{
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  color: white;
+}
+
+.sub-box
+{
+  display: flex;
+}
+.mr-5
+{
+  margin-left: 5px;
+}

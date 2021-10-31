@@ -1,0 +1,12 @@
+.box
+{
+  width: 100px;
+  height: 100px;
+  background-color: cadetblue;
+}
+.position
+{
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}

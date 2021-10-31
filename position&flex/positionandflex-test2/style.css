@@ -1,0 +1,22 @@
+.main
+{
+  display: flex;
+  flex-direction: column;
+}
+
+.box
+{
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  color: white;
+}
+
+.box-center
+{
+  align-self: center;
+}
+.box-end
+{
+  align-self: flex-end;
+}
